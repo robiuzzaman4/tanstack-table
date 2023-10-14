@@ -8,6 +8,6 @@
 - TanStack Table
 
 ## Additional Links
-- [Live Site Link](https://bike-hub.vercel.app/)
+- [Live Site Link](https://tanstack-table-rz.vercel.app/)
 - [Shadcn UI Docs](https://ui.shadcn.com/)
 - [TanStack Table Docs](https://tanstack.com/table/v8)
